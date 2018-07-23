@@ -1,0 +1,12 @@
+Nota:
+
+A rotina 00_Identificacao_de_Locutor é a principal e é a que chama todas as outras rotinas.
+Esteja atento ao mudar o nome de uma variável pois outras rotinas podem utilizar aquela mesma variável com o mesmo nome.
+Todos os códigos precisam estar na mesma pasta.
+
+OBS: O código só vai funcionar com o banco de falas localizado na mesma posição que estava originalmente no meu computador, sendo necessário a mudança manual para a utilização em outros computadores
+
+
+Em "outros":
+Está o código para rodar a simulação por um número finito de vezes a fim de se encontrar a melhor resposta
+

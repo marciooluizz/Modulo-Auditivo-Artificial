@@ -1,0 +1,15 @@
+Nota:
+
+A rotina 00_Identificacao_de_Emocoes é a principal e é a que chama todas as outras rotinas.
+Esteja atento ao mudar o nome de uma variável pois outras rotinas podem utilizar aquela mesma variável com o mesmo nome.
+Todos os códigos precisam estar na mesma pasta.
+
+OBS: O código só vai funcionar com o banco de falas (emo-db) localizado na mesma posição que estava originalmente no meu computador, sendo necessário a mudança manual para a utilização em outros computadores
+
+
+Em "outros":
+Está o código para rodar a simulação por um número finito de vezes a fim de se encontrar a melhor resposta
+Também estão (sob o nume de plus) alguns testes usando core affect
+
+Em "Emo_DB":
+Estão as ataptações necessárias para rodar o código com o banco Emo-DB (que precisam estar localizados no mesmo local que estavam no meu computador)

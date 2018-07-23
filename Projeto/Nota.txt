@@ -1,0 +1,5 @@
+Nota:
+
+Em 01Locutor estão os códigos para identificação de locutor. Há outra nota dentro.
+Em 02Emocaoestão os códigos para identificação de emoção estereotipada. Há outra nota dentro.
+Em 03FonteSonora está o código para a localização de uma fonte sonora. Há outra nota dentro.
