@@ -1,15 +1,15 @@
 Nota:
 
-A rotina 00_Identificacao_de_Emocoes È a principal e È a que chama todas as outras rotinas.
-Esteja atento ao mudar o nome de uma vari·vel pois outras rotinas podem utilizar aquela mesma vari·vel com o mesmo nome.
-Todos os cÛdigos precisam estar na mesma pasta.
+A rotina 00_Identificacao_de_Emocoes √© a principal e √© a que chama todas as outras rotinas.
+Esteja atento ao mudar o nome de uma vari√°vel pois outras rotinas podem utilizar aquela mesma vari√°vel com o mesmo nome.
+Todos os c√≥digos precisam estar na mesma pasta.
 
-OBS: O cÛdigo sÛ vai funcionar com o banco de falas (emo-db) localizado na mesma posiÁ„o que estava originalmente no meu computador, sendo necess·rio a mudanÁa manual para a utilizaÁ„o em outros computadores
+OBS: O c√≥digo s√≥ vai funcionar com o banco de falas (savee) localizado na mesma posi√ß√£o que estava originalmente no meu computador, sendo necess√°rio a mudan√ßa manual para a utiliza√ß√£o em outros computadores
 
 
 Em "outros":
-Est· o cÛdigo para rodar a simulaÁ„o por um n˙mero finito de vezes a fim de se encontrar a melhor resposta
-TambÈm est„o (sob o nume de plus) alguns testes usando core affect
+Est√° o c√≥digo para rodar a simula√ß√£o por um n√∫mero finito de vezes a fim de se encontrar a melhor resposta
+Tamb√©m est√£o (sob o nume de plus) alguns testes usando core affect
 
 Em "Emo_DB":
-Est„o as ataptaÁıes necess·rias para rodar o cÛdigo com o banco Emo-DB (que precisam estar localizados no mesmo local que estavam no meu computador)
+Est√£o as atapta√ß√µes necess√°rias para rodar o c√≥digo com o banco Emo-DB (que precisam estar localizados no mesmo local que estavam no meu computador)
